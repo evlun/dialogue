@@ -1,0 +1,19 @@
+{
+  "name": "dialogue",
+  "author": "Erik Lundin",
+  "description": "Placeholder",
+  "keywords": [],
+  "version": "0.0.1",
+  "homepage": "http://github.com/mjor/dialogue",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mjor/dialogue.git"
+  },
+  "engines": {
+    "node": ">=0.6.0"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://github.com/mjor/dialogue/raw/master/LICENSE"
+  }]
+}
