@@ -1,9 +1,9 @@
 {
   "name": "dialogue",
   "author": "Erik Lundin",
-  "description": "Placeholder",
+  "description": "Two-way binary stream communication made trivial",
   "keywords": [],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "http://github.com/mjor/dialogue",
   "repository": {
     "type": "git",
@@ -11,6 +11,9 @@
   },
   "engines": {
     "node": ">=0.6.0"
+  },
+  "dependencies": {
+    "rucksack": "0.0.2"
   },
   "licenses": [{
     "type": "MIT",
