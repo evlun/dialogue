@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/mjor/dialogue.png)](http://travis-ci.org/mjor/dialogue)
 dialogue is a simple wrapper that enables you to send and receive data
 structures of varying complexity over a binary stream by extending
 [rucksack](http://github.com/mjor/rucksack)'s binary serialization with support
